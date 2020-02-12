@@ -1,6 +1,6 @@
 <?
 
-$UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36";
-$Cookie = "lt=5e43c857f38ad%3A107e10775d61b837903cff8e98edaf32318bfd63923b158e8fed9ed81dc5eca89f";
+$UserAgent = "Mozilla/5.0 (Linux; Android 9; Redmi Note 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Mobile Safari/537.36";
+$Cookie = "lt=5e43cc2a82a04%3A87150165df75b7c97a2de36ab1571c23b52eb269ac461d495e3cbe13f35c5934fa";
 $username = "bomtvc";
 $id = "143929";
